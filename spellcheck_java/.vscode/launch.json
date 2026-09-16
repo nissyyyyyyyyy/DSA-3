@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run SpellChecker",
+            "request": "launch",
+            "mainClass": "spellcheck.SpellChecker",
+            "projectName": "spellcheck_java",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
